@@ -23,6 +23,9 @@ https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/config.plist-p
 Kextx rehabman
 https://bitbucket.org/%7Be26fb9ce-5cc2-4e36-8576-7a8faae8e194%7D/
 
+kext repo
+https://onedrive.live.com/?authkey=%21APjCyRpzoAKp4xs&id=FE4038DA929BFB23%21455036&cid=FE4038DA929BFB23
+
 
 tutorial create bootable USB disk
 https://support.apple.com/sl-si/HT201372
