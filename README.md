@@ -20,6 +20,9 @@ https://mackie100projects.altervista.org/download-clover-configurator/
 clover config plist tutorial
 https://hackintosh.gitbook.io/-r-hackintosh-vanilla-desktop-guide/config.plist-per-hardware/skylake
 
+tutorial clover
+https://www.tonymacx86.com/threads/guide-booting-the-os-x-installer-on-laptops-with-clover.148093/
+
 Kextx rehabman
 https://bitbucket.org/%7Be26fb9ce-5cc2-4e36-8576-7a8faae8e194%7D/
 
