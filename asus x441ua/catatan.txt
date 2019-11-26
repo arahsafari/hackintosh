@@ -1,0 +1,4 @@
+#HDMI
+clover configuration di devices , jangan lupa diganti inject intelhdmi , biar 
+hdminya jalan
+
