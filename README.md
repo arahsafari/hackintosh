@@ -39,3 +39,10 @@ https://www.travelertechie.com/2018/11/how-to-properly-install-kexts-in.html
 
 MSI GE72 6qf tutorial
 https://www.tonymacx86.com/threads/guide-msi-ge62-apache-pro-6qd-high-sierra-10-13-5.253869/
+
+Check PCI ID
+lspci -vnn | grep -a4 -i net
+
+Intel Kext
+https://github.com/AppleIntelWifi/adapter
+
